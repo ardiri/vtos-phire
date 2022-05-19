@@ -1,0 +1,6 @@
+BITMAPGREY16 0 "digs1bpp.bmp"
+BITMAPGREY16 1 "miss1bpp.bmp"
+BITMAPGREY16 2 "burn1bpp.bmp"
+BITMAPGREY16 3 "trmp1bpp.bmp"
+BITMAPGREY16 4 "jump1bpp.bmp"
+BITMAPGREY16 5 "die1bpp.bmp"
